@@ -610,7 +610,7 @@ const fixedDedications = {
     
     "Perfect_Ed_Sheeran_music_Perfect_mp3": {
         title: "Perfect",
-        subtitle: "Como nos conocimos",
+        subtitle: "Perfecta para mi :3",
         lines: [
             "♪ Perfect ♪",
             "Weno, el como nos conocimos :o",
@@ -899,6 +899,7 @@ function loadSavedDedications() {
         songDedications = JSON.parse(saved);
     }
 }
+
 
 
 
